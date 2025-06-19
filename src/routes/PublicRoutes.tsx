@@ -1,7 +1,7 @@
 import React from 'react';
 import { Routes, Route } from 'react-router';
 import Layout from '../layout/Layout.tsx';
-import Dashboard from '../views/dashboard/Dashboard';
+import Dashboard from '../features/dashboard/Dashboard';
 
 const PublicRoutes: React.FC = () => {
     return (
